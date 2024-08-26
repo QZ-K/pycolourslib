@@ -9,7 +9,7 @@ setup(
     long_description_content_type='text/markdown',
     author='KZed-K',
     author_email='kuzeykural040510@gmail.com',
-    url='https://github.com/KZed-K/colours_lib', 
+    url='https://github.com/KZed-K/colours-lib', 
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
