@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pycolourslib',
-    version='0.1.1',
+    version='1.0',
     packages=find_packages(),
     description='a python module with variabled colours for more simplicity and less time-wasting in your projects',
     long_description=open('README.md').read(),
