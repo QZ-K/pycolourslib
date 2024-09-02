@@ -1,3 +1,10 @@
-a python module with variabled colours for more simplicity and less time-wasting in your projects
-around 100+ colours
-party() mode !!epilepsy warning!!
+# pycolourslib
+
+`pycolourslib` is a Python library that provides a collection of predefined colors for simplicity and efficiency in your projects.
+over 100+ colours
+## Installation
+
+You can install the package using pip:
+
+```bash
+pip install pycolourslib

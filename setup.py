@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='colours_lib',
+    name='pycolourslib',
     version='0.1',
     packages=find_packages(),
     description='a python module with variabled colours for more simplicity and less time-wasting in your projects',
@@ -9,7 +9,7 @@ setup(
     long_description_content_type='text/markdown',
     author='KZed-K',
     author_email='kuzeykural040510@gmail.com',
-    url='https://github.com/KZed-K/colours-lib', 
+    url='https://github.com/KZed-K/pycolourslib', 
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',

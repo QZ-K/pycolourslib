@@ -1,4 +1,3 @@
-import random
 
 black = (0, 0, 0)
 white = (255, 255, 255)
@@ -72,16 +71,3 @@ steelblue = (70, 130, 180)
 tomato = (255, 99, 71)
 wheat = (245, 222, 179)
 yellowgreen = (154, 205, 50)
-
-def party():
-    return random.choice([
-        black, white, red, green, blue, yellow, cyan, magenta, gray, lightgray, darkgray,
-        orange, purple, brown, pink, lime, teal, navy, maroon, olive, silver, gold, beige,
-        coral, salmon, turquoise, indigo, crimson, darkblue, darkgreen, darkred, firebrick,
-        forestgreen, gainsboro, lightcoral, lightseagreen, lightsalmon, mediumaquamarine,
-        mediumblue, mediumorchid, mediumslateblue, mediumpurple, mediumseagreen,
-        mediumturquoise, mediumvioletred, midnightblue, mistyrose, oldlace, orangered,
-        palegoldenrod, palegreen, paleturquoise, palevioletred, peachpuff, peru, plum,
-        powderblue, rosybrown, royalblue, saddlebrown, sandybrown, seashell, sienna, skyblue,
-        slateblue, slategray, snow, springgreen, steelblue, tomato, wheat, yellowgreen
-    ])
